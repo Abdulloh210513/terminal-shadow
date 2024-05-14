@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  text-decoration: none;
+  list-style: none;
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 118px 0px 76px 0px;
+}
+
+ul {
+  display: flex;
+  gap: 58px;
+}
+
+ul li a {
+  font-weight: 500;
+  font-size: 32px;
+  color: #000000;
+  text-shadow: 5px 15px 7px rgba(55, 26, 171, 0.37);
+}
+
+section {
+  display: flex;
+  gap: 57px;
+  align-items: center;
+}
+
+.amaki {
+  display: flex;
+  gap: 97px;
+}
+
+.doda {
+  display: flex;
+  flex-direction: column;
+  row-gap: 57px;
+}
+.bola1 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 47px -83px 0px -30px rgba(7, 162, 29, 0.29);
+  -webkit-box-shadow: 47px -83px 0px -30px rgba(7, 162, 29, 0.29);
+  -moz-box-shadow: 47px -83px 0px -30px rgba(7, 162, 29, 0.29);
+}
+.bola2 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 94px 25px 5px 0px rgba(7, 162, 29, 0.75);
+  -webkit-box-shadow: 94px 25px 5px 0px rgba(7, 162, 29, 0.75);
+  -moz-box-shadow: 94px 25px 5px 0px rgba(7, 162, 29, 0.75);
+}
+.bola3 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 98px -54px 63px -21px rgba(7, 162, 29, 1) inset;
+  -webkit-box-shadow: 98px -54px 63px -21px rgba(7, 162, 29, 1) inset;
+  -moz-box-shadow: 98px -54px 63px -21px rgba(7, 162, 29, 1) inset;
+}
+.bola4 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 200px 200px 400px 200px rgba(7, 162, 29, 1) inset;
+  -webkit-box-shadow: 200px 200px 400px 200px rgba(7, 162, 29, 1) inset;
+  -moz-box-shadow: 200px 200px 400px 200px rgba(7, 162, 29, 1) inset;
+}
+.bola5 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53) inset;
+  -webkit-box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53) inset;
+  -moz-box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53) inset;
+}
+.bola6 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53);
+  -webkit-box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53);
+  -moz-box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53);
+}
+.bola7 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53);
+  -webkit-box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53);
+  -moz-box-shadow: 2px 5px 196px 0px rgba(7, 162, 29, 0.53);
+}
+.bola8 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: 64px 95px 266px 5px rgba(7, 162, 29, 0.42);
+  -webkit-box-shadow: 64px 95px 266px 5px rgba(7, 162, 29, 0.42);
+  -moz-box-shadow: 64px 95px 266px 5px rgba(7, 162, 29, 0.42);
+}
+.bola9 {
+  height: 133px;
+  width: 133px;
+  border: 1px solid gray;
+  box-shadow: -143px 95px 354px -47px rgba(7, 162, 29, 0.62);
+  -webkit-box-shadow: -143px 95px 354px -47px rgba(7, 162, 29, 0.62);
+  -moz-box-shadow: -143px 95px 354px -47px rgba(7, 162, 29, 0.62);
+}
